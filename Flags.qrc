@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Flags/Cyprus.png</file>
+        <file>Flags/Iceland.png</file>
+        <file>Flags/Luxembourg.png</file>
+        <file>Flags/Monaco.png</file>
+        <file>Flags/QR.png</file>
+        <file>Flags/UAE.png</file>
+    </qresource>
+</RCC>

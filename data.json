@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "countryCode": "961",
+            "dateOfBirth": "Mon Oct 15 2001",
+            "firstname": "David",
+            "gender": "Male",
+            "lastname": "Abboud",
+            "password": "DavidAbboud123",
+            "phoneNumber": "+961-111222",
+            "profile_picture_path": "/home/eece435l/Merged2/Pictures/background.jpg",
+            "username": "davidabboud"
+        },
+        {
+            "countryCode": "971",
+            "dateOfBirth": "Mon Oct 15 2001",
+            "firstname": "Youssef",
+            "gender": "Male",
+            "lastname": "Charif",
+            "password": "YoussefCharif123",
+            "phoneNumber": "+971-222111",
+            "profile_picture_path": ":/Pictures/Default.png",
+            "username": "youssefcharif"
+        }
+    ]
+}

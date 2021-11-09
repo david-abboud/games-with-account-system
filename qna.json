@@ -1,0 +1,166 @@
+{
+    "data": [
+        {
+            "Question":"What happens when delete is called for a NULL pointer?",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"No effect",
+            "Answer 1":"No effect",
+            "Answer 2":"Compiler error",
+            "Answer 3":"Run-time crash"
+        },
+        {
+            "Question":"Is it okay to call delete on a pointer twice?",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"No",
+            "Answer 1":"No",
+            "Answer 2":"Yes",
+            "Answer 3":"It depends"
+
+        },
+        {
+            "Question":"How do you create a dynamic array of size 10?",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"int* arr = new int[10];",
+            "Answer 1":"int* arr = new int[10];",
+            "Answer 2":"int** arr= new int*[10];",
+            "Answer 3":"int arr= new int*[10];"
+        },
+        {
+            "Question":"How do decalre a generic pointer?",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"void*",
+            "Answer 1":"void*",
+            "Answer 2":"gen*",
+            "Answer 3":"word*"
+        },
+        {
+            "Question":"A reference declaration creates:",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"A new variable",
+            "Answer 1":"A new variable",
+            "Answer 2":"An alis to an existing variable",
+            "Answer 3":"A pointer"
+        },
+        {
+            "Question":"The expression p = new int[20]:",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"Allocates 20 integers and assigns the base address to p",
+            "Answer 1":"Allocates 20 integers and assigns the base address to p",
+            "Answer 2":"Assigns an integer of size 20 bytes",
+            "Answer 3":"Assiiigns an integer of value 20"
+        },
+        {
+            "Question":"After the decalaration const N = 5, which of the following is illegal?",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"cin > >N",
+            "Answer 1":"cin >> N",
+            "Answer 2":"cout << N",
+            "Answer 3":"if (N==i+2)"
+        },
+        {
+            "Question":"Which of the following about using const is false?",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"You cannot assign a pointer to a const value",
+            "Answer 1":"You cannot assign a pointer to a const value",
+            "Answer 2":"You cannot modify a const variable",
+            "Answer 3":"A const variable must be initialized when declared"
+        },
+        {
+            "Question":"Dynamic memory is allocated from which type of memory?",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"Heap",
+            "Answer 1":"Heap",
+            "Answer 2":"Stack",
+            "Answer 3":"Static"
+        },
+        {
+            "Question":"In C++, dynamic memory allocation is done using:",
+            "Type":"Memory Allocation and Deallocation",
+            "Answer":"new operator",
+            "Answer 1":"malloc()",
+            "Answer 2":"new operator",
+            "Answer 3":"cmallloc()"
+        },
+        {
+                "Question":"What is the time complexity of Merge Sort?",
+                "Type":"Algorithms",
+                "Answer":"O(n log n)",
+                "Answer 1":"O(n^3)",
+                "Answer 2":"O(n log n)",
+                "Answer 3":"O(1)"
+        },
+        {
+                "Question":"Which of the following is not a graph algorithm?",
+                "Type":"Algorithms",
+                "Answer":"Quick Sort",
+                "Answer 1":"Dijkstra",
+                "Answer 2":"Floyd Warshall",
+                "Answer 3":"Quick Sort"
+        },
+        {
+                "Question":"Which data structure can be used to check for valid parantheses",
+                "Type":"Algorithms",
+                "Answer":"Stack",
+                "Answer 1":"Queue",
+                "Answer 2":"Heap",
+                "Answer 3":"Stack"
+        },
+        {
+                "Question":"Merge sort algorithm uses:",
+                "Type":"Algorithms",
+                "Answer":"Divide and Conquer",
+                "Answer 1":"DP",
+                "Answer 2":"Divide and Conquer",
+                "Answer 3":"Binary Search"
+        },
+        {
+                "Question":"Which algorithm is not stable?",
+                "Type":"Algorithms",
+                "Answer":"Selection Sort",
+                "Answer 1":"Selection Sort",
+                "Answer 2":"Merge Sort",
+                "Answer 3":"Bubble Sort"
+        },
+        {
+                "Question":"Which of the following uses memoization?",
+                "Type":"Algorithms",
+                "Answer":"Dynamic Programming",
+                "Answer 1":"Divide and Conquer",
+                "Answer 2":"Dynamic Programming",
+                "Answer 3":"Greedy approach"
+        },
+        {
+                "Question":"Which algorithm does not divide the list?",
+                "Type":"Algorithms",
+                "Answer":"Linear search",
+                "Answer 1":"Binary search",
+                "Answer 2":"Linear search",
+                "Answer 3":"Merge sort"
+        },
+        {
+                "Question":"Which data structure is used to perform recursion?",
+                "Type":"Algorithms",
+                "Answer":"Stack",
+                "Answer 1":"Queue",
+                "Answer 2":"Heap",
+                "Answer 3":"Stack"
+        },
+        {
+                "Question":"Which approach is followed in Floyd Warshall Algorithm?",
+                "Type":"Algorithms",
+                "Answer":"Dynamic Programming",
+                "Answer 1":"Dynamic Programming",
+                "Answer 2":"Greedy approach",
+                "Answer 3":"Randomization"
+        },
+        {
+                "Question":"Hamiltonian Path problem is:",
+                "Type":"Algorithms",
+                "Answer":"NP Complete",
+                "Answer 1":"P",
+                "Answer 2":"NP Complete",
+                "Answer 3":"Just NP"
+        }
+
+    ]
+}
